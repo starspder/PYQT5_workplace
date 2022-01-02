@@ -54,7 +54,7 @@ class MyApp(QWidget):
     #     qp.drawRect(150, 10, 100, 60)
     #     qp.drawText(150, 90, 'Qt.Dense1Pattern')
     #
-    #     brush = QBrush(Qt.Dense2Pattern)
+    #     brush = QBrush(Qt.Dense2Pattern)a
     #     qp.setBrush(brush)
     #     qp.drawRect(280, 10, 100, 60)
     #     qp.drawText(280, 90, 'Qt.Dense2Pattern')
